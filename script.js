@@ -1,6 +1,6 @@
 window.onload = function()
 {
-    const name = "Графова Валерияgit ";
+    const name = "Графова Валерия";
     const element = document.querySelector("#name");
     if (element)
     {
